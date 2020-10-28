@@ -1,0 +1,23 @@
+/*Plugin que da el efecto de que aparezca el contenido conforme vas bajando en la página*/
+https://scrollrevealjs.org/guide/hello-world.html
+
+/*Página donde se pueden descargar imagenes gratis para tu página de buena resolución*/
+https://www.pexels.com/es-es/
+
+/*Página para descargar fuentes de letras*/
+https://fonts.google.com/specimen/Oswald?sidebar.open=true&selection.family=Oswald:wght@200;300;400#standard-styles
+
+/*Fondo de textura para páginas*/
+https://www.heropatterns.com/
+
+/*Iconos*/
+https://fontawesome.com/icons?d=gallery
+
+/*Página para colores*/
+https://flatuicolors.com/
+
+/*Páginas para colores 2*/
+https://www.color-hex.com/
+
+/*Video de la página*/
+https://www.youtube.com/watch?v=Q2imkhmhOFo&feature=youtu.be
