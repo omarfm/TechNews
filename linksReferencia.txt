@@ -21,3 +21,6 @@ https://www.color-hex.com/
 
 /*Video de la página*/
 https://www.youtube.com/watch?v=Q2imkhmhOFo&feature=youtu.be
+
+/*Referencia a flex box*/
+https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Conceptos_Basicos_de_Flexbox
